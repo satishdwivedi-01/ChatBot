@@ -2,3 +2,23 @@
 @tailwind components;
 @tailwind utilities;
 
+@media (max-width: 640px) {
+  .outsider{
+    width: 60%;
+  }
+}
+@media (max-width: 488px) {
+  .outsider{
+    width: 80%;
+  }
+}
+@media (max-width: 380px) {
+  .outsider{
+    width: 90%;
+  }
+}
+@media (max-width: 320px) {
+  .outsider{
+    width: 96%;
+  }
+}

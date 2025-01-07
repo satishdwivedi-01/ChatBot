@@ -41,7 +41,7 @@ function App() {
   };
 
   return (
-    <div className="flex flex-col  mx-auto mt-10 border rounded-lg shadow-lg p-4 bg-white w-[50vw]">
+    <div className="outsider flex flex-col  mx-auto mt-10 border rounded-lg shadow-lg p-4 bg-white w-[50vw]">
       
       <h1 className='m-auto mb-4 font-semibold text-gray-700'>Ask anything</h1>
 
